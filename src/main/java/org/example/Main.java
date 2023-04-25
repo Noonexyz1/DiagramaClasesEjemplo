@@ -5,6 +5,9 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
 
+        /*Implementar los principios solid*/
+
+
         System.out.println("------------Simulacion de estudiantes------------");
         Estudiante estudiante1 = new Estudiante(1, "Jose");
         Estudiante estudiante2 = new Estudiante(2, "Ana");
